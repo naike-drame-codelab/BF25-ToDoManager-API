@@ -1,5 +1,5 @@
-﻿using ToDoManager.BLL.Entities;
-using ToDoManager.BLL.Services;
+﻿using ToDoManager.Entities;
+using ToDoManager.Services;
 
 // création de l'objet qui s'occupera de gérer les tâches
 ToDoService ts = new();
